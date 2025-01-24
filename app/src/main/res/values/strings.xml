@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Компании</string>
+    <string name="list_title">Список компаний</string>
+    <string name="company_title">Компания:</string>
+    <string name="industry">Сфера деятельности:</string>
+    <string name="catch_phrase">Слоган:</string>
+    <string name="type">Тип:</string>
+    <string name="phone_number">Номер телефона:</string>
+    <string name="full_address">Адрес:</string>
 </resources>
